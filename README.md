@@ -1,4 +1,4 @@
 ---
 
-I like this site,and then turn http://learnlayout.com/ into a react app.
+a babel plugin to import css then transform to react inline styles;
 
