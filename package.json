@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "homepage": ".",
   "description": "babel plugin import css",
-  "main": "main.js",
+  "main": "lib/myImportCss.js",
   "scripts": {
     "start": "electron . --dev",
     "local": "electron . --local",
