@@ -1,0 +1,18 @@
+{
+  "name": "js debug",
+  "version": "1.0.0",
+  "description": "run js in electron and  debug it",
+  "main": "main.js",
+  "scripts": {
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.8.2"
+  },
+  "dependencies": {
+  }
+}
